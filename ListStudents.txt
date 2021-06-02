@@ -1,0 +1,4 @@
+Grigorii,Skovoroda,3.56348756,5​
+Taras,Shevchenko,4,5​
+Hose,De San-Martin,4.9,9
+Anton,Lytvyniuk,4.100000000,10
